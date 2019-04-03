@@ -5,3 +5,7 @@ print("other")
 print("rrrr")
 print("eee")
 print("local")
+print("rrrr")
+print("eee")
+print("remote")
+
